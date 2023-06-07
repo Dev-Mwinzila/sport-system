@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://www.youtube.com/
+[InternetShortcut]
+URL=https://www.youtube.com/ghostspectre
+Modified=D075556B8038C60184
+HotKey=0
+IDList=
+IconIndex=0
+IconFile=C:\Windows\Ico\YT.ico
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut.A]
+[InternetShortcut.W]
+IconFile=C:+AFw-Documents and Settings+AFzIFcck1jgAXLwU0NU- +1lS6dABc-GeIcon.ico
